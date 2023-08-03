@@ -1,3 +1,19 @@
+This module is deprecated. 
+
+We restructured the resources based on the API. The current version can be found here.
+
+[https://registry.terraform.io/modules/telekom-mms/build/azuredevops/latest](https://registry.terraform.io/modules/telekom-mms/core/azuredevops/latest)
+* azuredevops_project
+
+[https://registry.terraform.io/modules/telekom-mms/core/azuredevops/latest](https://registry.terraform.io/modules/telekom-mms/serviceendpoint/azuredevops/latest)
+* azuredevops_serviceendpoint_azurecr
+* azuredevops_serviceendpoint_azurerm
+* azuredevops_serviceendpoint_dockerregistry
+* azuredevops_serviceendpoint_generic_git
+
+[https://registry.terraform.io/modules/telekom-mms/taskagent/azuredevops/latest](https://registry.terraform.io/modules/telekom-mms/taskagent/azuredevops/latest)
+* azuredevops_variable_group
+
 <!-- BEGIN_TF_DOCS -->
 # azuredevops_project
 
